@@ -1,0 +1,385 @@
+1492516166669	geckodriver	INFO	Listening on 127.0.0.1:64774
+1492516168701	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.DJS45S6sJjg8
+1492516168706	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492516168715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64780
+1492516169773	Marionette	INFO	Listening on port 64780
+1492516170295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cookiemapping.wrating.com/link.html, line 3: NS_ERROR_FAILURE: 
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 7: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 146: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 98: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 19: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 78: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 25: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1492516251411	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1492516274147	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492518824608	geckodriver	INFO	Listening on 127.0.0.1:52631
+1492518826636	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.EwRVWyRiVV7j
+1492518826640	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492518826651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52637
+1492518827583	Marionette	INFO	Listening on port 52637
+1492518828083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cookiemapping.wrating.com/link.html, line 3: NS_ERROR_FAILURE: 
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 22: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 7: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 216: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 146: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 36: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 98: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 19: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 78: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.24/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.24/conf.js,mui/mallbar/3.2.24/util.js,mui/mallbar/3.2.24/model.js,mui/mallbar/3.2.24/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.24/mallbar-item.js,mui/mallbar/3.2.24/mallbar-guide.js,mui/mallbar/3.2.24/plugin-prof.js,mui/mallbar/3.2.24/plugin-asset.js,mui/mallbar/3.2.24/plugin-brand.js,mui/mallbar/3.2.24/plugin-live.js,mui/mallbar/3.2.24/plugin-foot.js,mui/mallbar/3.2.24/plugin-top.js,mui/mallbar/3.2.24/plugin-ue.js,mui/mallbar/3.2.24/plugin-qrcode.js,mui/mallbar/3.2.24/plugin-favor.js,mui/mallbar/3.2.24/plugin-charge.js,mui/mallbar/3.2.24/plugin-cart.js,mui/minicart/3.0.27/minicart.js,mui/minicart/3.0.27/model.js,mui/minicart/3.0.27/util.js,mui/mallbar/3.2.24/plugin-nav.js,mui/mallbar/3.2.24/plugin-worth.js?t=1_2013072520131122.js, line 25: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1492518865734	Marionette	INFO	New connections will no longer be accepted
+[Child 4072] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492519314885	geckodriver	INFO	Listening on 127.0.0.1:52846
+1492519316895	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.cJEIHJd1emKU
+1492519316900	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492519316912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52852
+1492519317941	Marionette	INFO	Listening on port 52852
+1492519318467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492519387303	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1492520192225	geckodriver	INFO	Listening on 127.0.0.1:53416
+1492520194236	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.kHSrIlx00g5N
+1492520194241	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492520194251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53422
+1492520195218	Marionette	INFO	Listening on port 53422
+1492520195707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: https://acjstb.aliyun.com/actionlog/js/ua.js, line 1: Error: Permission denied to access property "href"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[NPAPI 7928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492520314320	geckodriver	INFO	Listening on 127.0.0.1:53547
+1492520316346	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.DiYimFT2obPT
+1492520316351	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492520316362	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53554
+1492520317300	Marionette	INFO	Listening on port 53554
+1492520317776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: https://acjstb.aliyun.com/actionlog/js/ua.js, line 1: Error: Permission denied to access property "href"
+[Parent 7112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=c4b8341f1424d6c8, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=c4b8341f1424d6c8, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1492520477042, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/unLogin.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directright.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/loginBox.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+[NPAPI 6340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/unLogin.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directright.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/loginBox.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/common/totalShow.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/filtertab.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/feedList.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/interest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/noResultInterest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/feedList.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/common/totalShow.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/filtertab.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/interest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/noResultInterest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/feedList.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/common/totalShow.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/filtertab.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/interest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/noResultInterest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+[NPAPI 7948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[NPAPI 7948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/feedList.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/common/totalShow.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/filtertab.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/interest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/noResultInterest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/firstuser.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/interest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/user/noResultInterest.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/feedList.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/common/totalShow.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t4/apps/search_v6/js/pl/user/filtertab.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/unLogin.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/loginBox.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directright.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+[NPAPI 6040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[NPAPI 6040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[NPAPI 5704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/searchTop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/unLogin.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directright.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/loginBox.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/common/bottomInput.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search_v6/js/pl/common/base.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/direct.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js1.t.sinajs.cn/t4/apps/search_v6/js/pl/weibo/directtop.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/forward.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/dialog/moodSmallPublish.js?version=20170418144000, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t4/apps/search/js/common/bubble/moodFeedPublish.js?version=20170418144000, line 1: unreachable code after return statement
+[NPAPI 7380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492521219688	geckodriver	INFO	Listening on 127.0.0.1:54760
+1492521221732	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Fw4J9Lwe264w
+1492521221736	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492521221746	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54775
+1492521222764	Marionette	INFO	Listening on port 54775
+1492521223247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: https://acjstb.aliyun.com/actionlog/js/ua.js, line 1: Error: Permission denied to access property "href"
+[NPAPI 6916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492521249829	geckodriver	INFO	Listening on 127.0.0.1:54861
+1492521251845	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.7XLFxrHislGS
+1492521251853	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492521251867	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54868
+1492521253013	Marionette	INFO	Listening on port 54868
+1492521253531	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492521300756	geckodriver	INFO	Listening on 127.0.0.1:54922
+1492521302778	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.QiGoTYt8QoWN
+1492521302782	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492521302792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54928
+1492521303822	Marionette	INFO	Listening on port 54928
+1492521304344	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492522685989	geckodriver	INFO	Listening on 127.0.0.1:56527
+1492522688005	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.yEJCxbk3j8GZ
+1492522688019	geckodriver::marionette	INFO	Starting browser E:\Firefox\firefox.exe with args []
+1492522688033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56536
+1492522688343	addons.manager	DEBUG	Application has been upgraded
+1492522688386	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1492522688388	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1492522688393	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1492522688395	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1492522688396	addons.manager	DEBUG	Starting provider: XPIProvider
+1492522688397	addons.xpi	DEBUG	startup
+1492522688397	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1492522688398	addons.xpi	INFO	Mapping aushelper@mozilla.org to E:\Firefox\browser\features\aushelper@mozilla.org.xpi
+1492522688398	addons.xpi	INFO	Mapping e10srollout@mozilla.org to E:\Firefox\browser\features\e10srollout@mozilla.org.xpi
+1492522688399	addons.xpi	INFO	Mapping firefox@getpocket.com to E:\Firefox\browser\features\firefox@getpocket.com.xpi
+1492522688399	addons.xpi	INFO	Mapping webcompat@mozilla.org to E:\Firefox\browser\features\webcompat@mozilla.org.xpi
+1492522688400	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to E:\Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1492522688400	addons.xpi	DEBUG	checkForChanges
+1492522688400	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1492522688401	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1492522688402	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1492522688403	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1492522688403	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1492522688403	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1492522688404	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1492522688404	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1492522688405	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1492522688405	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1492522688405	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1492522688406	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1492522688406	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"aushelper@mozilla.org":{"d":"E:\\Firefox\\browser\\features\\aushelper@mozilla.org.xpi","st":1489884551148},"e10srollout@mozilla.org":{"d":"E:\\Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","st":1489884551148},"firefox@getpocket.com":{"d":"E:\\Firefox\\browser\\features\\firefox@getpocket.com.xpi","st":1489884551148},"webcompat@mozilla.org":{"d":"E:\\Firefox\\browser\\features\\webcompat@mozilla.org.xpi","st":1489884551133}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"E:\\Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1489884551148}}}
+1492522688417	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.yEJCxbk3j8GZ\extensions.json
+1492522688420	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1492522688434	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688434	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1492522688438	DeferredSave.extensions.json	DEBUG	Starting timer
+1492522688440	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688440	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1492522688449	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688449	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1492522688454	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688455	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1492522688459	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688460	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1492522688468	addons.xpi	DEBUG	Loading bootstrap scope from E:\Firefox\browser\features\aushelper@mozilla.org.xpi
+1492522688475	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1492522688475	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1492522688476	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688478	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1492522688478	addons.xpi	DEBUG	Loading bootstrap scope from E:\Firefox\browser\features\e10srollout@mozilla.org.xpi
+1492522688483	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.9
+1492522688485	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1492522688486	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688486	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1492522688488	addons.xpi	DEBUG	Loading bootstrap scope from E:\Firefox\browser\features\firefox@getpocket.com.xpi
+1492522688493	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1492522688494	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1492522688494	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688494	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1492522688495	addons.xpi	DEBUG	Loading bootstrap scope from E:\Firefox\browser\features\webcompat@mozilla.org.xpi
+1492522688498	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1492522688498	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1492522688498	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688498	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1492522688499	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688499	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{9644ce25-3376-4a81-9d0c-3a05fd13db79}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"E:\\Firefox\\browser\\features\\aushelper@mozilla.org.xpi","installDate":1489884551148,"updateDate":1489884551148,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0.1","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1492522688499	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1492522688499	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{ec47f8c8-1038-41f5-b3c4-449146f792f8}","location":"app-system-defaults","version":"1.9","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"E:\\Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1489884551148,"updateDate":1489884551148,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":7183,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0.1","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1492522688500	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1492522688500	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{ac06a636-cc73-42cc-b05d-de02522fd496}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"E:\\Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1489884551148,"updateDate":1489884551148,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":920329,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0.1","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1492522688500	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1492522688500	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{fb982450-2daf-4f34-9c70-57796b59453a}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"E:\\Firefox\\browser\\features\\webcompat@mozilla.org.xpi","installDate":1489884551133,"updateDate":1489884551133,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1456,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0.1","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1492522688500	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1492522688501	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{ed32aa0b-86c2-416a-bca6-95ac31d191f2}","location":"app-global","version":"52.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"E:\\Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1489884551148,"updateDate":1489884551148,"applyBackgroundUpdates":1,"skinnable":true,"size":19587,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0.1","maxVersion":"52.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1492522688501	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1492522688502	DeferredSave.extensions.json	DEBUG	Save changes
+1492522688502	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1492522688503	addons.xpi-utils	DEBUG	Updating add-on states
+1492522688504	addons.xpi-utils	DEBUG	Writing add-ons list
+1492522688509	addons.xpi	DEBUG	Registering manifest for E:\Firefox\browser\features\aushelper@mozilla.org.xpi
+1492522688509	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1492522688511	addons.xpi	DEBUG	Registering manifest for E:\Firefox\browser\features\e10srollout@mozilla.org.xpi
+1492522688512	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.9
+1492522688513	addons.xpi	DEBUG	Registering manifest for E:\Firefox\browser\features\firefox@getpocket.com.xpi
+1492522688514	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1492522688516	addons.xpi	DEBUG	Registering manifest for E:\Firefox\browser\features\webcompat@mozilla.org.xpi
+1492522688517	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1492522688520	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1492522688520	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1492522688520	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1492522688520	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1492522688521	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1492522688521	addons.manager	DEBUG	Starting provider: GMPProvider
+1492522688532	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1492522688533	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1492522688533	addons.manager	DEBUG	Starting provider: PluginProvider
+1492522688533	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1492522688533	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1492522688534	addons.manager	DEBUG	Completed startup sequence
+1492522688896	Marionette	INFO	Listening on port 56536
+1492522689192	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1492522689193	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1492522689193	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1492522689236	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1492522689237	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1492522689238	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1492522689242	DeferredSave.extensions.json	DEBUG	Starting write
+1492522689318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492522689517	DeferredSave.extensions.json	DEBUG	Write succeeded
+1492522689517	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+JavaScript error: https://www.oschina.net/public/javascripts/cjl/ga.js?t=20160926, line 1: NotFoundError: Node was not found
+1492522712200	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.0
+1492522712200	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1492522712201	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.9
+1492522712202	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+[Child 7668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492522712388	addons.manager	DEBUG	shutdown
+1492522712389	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1492522712390	addons.xpi	DEBUG	shutdown
+1492522712390	addons.xpi-utils	DEBUG	shutdown
+1492522712391	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1492522712392	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1492522712395	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1492522712396	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1492522712399	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1492522712404	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1492522712411	addons.manager	DEBUG	Async provider shutdown done
