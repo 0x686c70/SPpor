@@ -110,8 +110,8 @@ RANDOM_UA_TYPE = "random"
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # 你懂的
-MYSQL_HOST = '192.168.45.129'
-MYSQL_DBNAME = 'article_spider'
+MYSQL_HOST = ''
+MYSQL_DBNAME = ''
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'root'
 

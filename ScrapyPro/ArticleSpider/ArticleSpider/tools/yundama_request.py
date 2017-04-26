@@ -70,13 +70,13 @@ class YDMHttp(object):
 
 if __name__ == "__main__":
     # 用户名
-    username = 'da_ge_da1'
+    username = 'your_ac'
     # 密码
-    password = 'da_ge_da'
+    password = 'your_pw'
     # 软件ＩＤ，开发者分成必要参数。登录开发者后台【我的软件】获得！
     appid = 3129
     # 软件密钥，开发者分成必要参数。登录开发者后台【我的软件】获得！
-    appkey = '40d5ad41c047179fc797631e3b9c3025'
+    appkey = 'your_key'
     # 图片文件
     filename = 'pin9.png'
     # 验证码类型，# 例：1004表示4位字母数字，不同类型收费不同。请准确填写，否则影响识别率。在此查询所有类型 http://www.yundama.com/price.html
